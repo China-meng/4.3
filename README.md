@@ -8,7 +8,7 @@
 
 <img width="1137" alt="企业微信截图_05e8923d-51d0-426b-be43-802a86689ffa" src="https://github.com/China-meng/Trial-case/assets/25093258/4f1c5f8e-2d7e-4c40-9895-78eb61c1effb">
 
-# 案例1:
+# 案例2:
 # 第二个版本4.3被拒, 8月1号4.3被拒, 8月5号周六重新提交审核,8月8号过审
 <img width="1106" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/53e12dfb-ca5b-4657-87ce-676cd044659c">
 
