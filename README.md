@@ -9,10 +9,10 @@ tg:@Mengboai
 
 # 案例3:社交类型
 # 更新了很多个版本4.3被拒, 8月15号下午提审,审核了8个小时过审
+<img width="1103" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/3f9240c1-ad9a-4b84-90ac-eca516793eaa">
+<img width="1090" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/9e961007-ed9b-4a61-a133-67060df7f1ff">
+<img width="1104" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/bf31ce51-8e55-450d-b091-719398484106">
 
-
-
-<img width="1137" alt="企业微信截图_05e8923d-51d0-426b-be43-802a86689ffa" src="https://github.com/China-meng/Trial-case/assets/25093258/4f1c5f8e-2d7e-4c40-9895-78eb61c1effb">
 
 # 案例2:商城类型
 # 第二个版本4.3被拒, 8月1号4.3被拒, 8月5号周六重新提交审核,8月8号过审
