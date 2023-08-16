@@ -7,6 +7,14 @@ wx:nba18811
 qq:3282751770
 tg:@Mengboai
 
+# 案例4:商务类型2.3.1被拒
+# 第二个版本更新2.3.1被拒, 8月8号2.3.1被拒, 8月10号重新提交审核,当天因为权限问题被拒, 8月13号回复, 8月15号又录了视频才过审核
+<img width="1197" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/a73cdc37-996b-4b70-b137-b7f08575e4bf">
+<img width="1175" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/6988ece5-2a48-43bd-a162-7e45c804c590">
+<img width="1135" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/8cc838d6-0232-4257-8b07-d3442588a238">
+<img width="1267" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/28324d79-025f-41d3-9641-5567e496bd34">
+
+
 # 案例3:社交类型
 # 更新了很多个版本4.3被拒, 8月15号下午提审,审核了8个小时过审
 <img width="1103" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/3f9240c1-ad9a-4b84-90ac-eca516793eaa">
