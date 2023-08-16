@@ -1,4 +1,4 @@
-# 过审案例-因客户隐私,只公布部分客户同意公开的案例
+# 不分过审案例
 
 # 不管是4.3被拒,还是2.3.1被拒, 还是其他原因被拒, 没人任何一个人能保证苹果的审核一定能过,本人各种类型的包提审过500多个,我只会根据自己过包的经验帮助客户过审
 # 所有客户不收任何押金, 过审付款, 童叟无欺, 诚信做人, 骗子绕道
@@ -7,9 +7,9 @@ wx:nba18811
 qq:3282751770
 tg:@Mengboai
 
-# 案例1:体育类型
-# 第一个版本4.3被拒, 历经4天过审
-<img width="1027" alt="企业微信截图_8c193723-effb-4274-a18a-89756d140b43" src="https://github.com/China-meng/Trial-case/assets/25093258/9119c108-8b63-4638-b689-36df233cf62a">
+# 案例3:社交类型
+# 更新了很多个版本4.3被拒, 8月15号下午提审,审核了8个小时过审
+
 
 
 <img width="1137" alt="企业微信截图_05e8923d-51d0-426b-be43-802a86689ffa" src="https://github.com/China-meng/Trial-case/assets/25093258/4f1c5f8e-2d7e-4c40-9895-78eb61c1effb">
@@ -23,6 +23,8 @@ tg:@Mengboai
 <img width="1047" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/0323defe-cc23-42db-aa4b-fc6ab48af0a0">
 
 
-
+# 案例1:体育类型
+# 第一个版本4.3被拒, 历经4天过审
+<img width="1027" alt="企业微信截图_8c193723-effb-4274-a18a-89756d140b43" src="https://github.com/China-meng/Trial-case/assets/25093258/9119c108-8b63-4638-b689-36df233cf62a">
 
 
