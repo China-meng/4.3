@@ -6,7 +6,7 @@
 ## wx:nba18811<br>   qq:3282751770<br>   tg:@Mengboai<br> 
 
 ### 案例5:工具类型 调查
-### 第一个版本调查了, 8月12号1.0版本审核9分钟调查了, 8月15号苹果告知调查结束但是4.3了,8月16直接回怼苹果,然后只过审
+### 第一个版本调查了, 8月12号1.0版本审核9分钟调查了, 8月15号苹果告知调查结束但是4.3了(一般调查结束,如果账号和代码没问题,苹果都是给4.3),8月16直接回怼苹果,然后只过审
 <img width="1241" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/d1a2ec32-9264-4cc5-adad-c427f995d7a1">
 <img width="1287" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/efe4c1ec-8287-4b4e-8500-4bf5eb21f154">
 <img width="1257" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/7dad83d0-ef0c-4a5e-bd6b-dd4c92d06c51">
