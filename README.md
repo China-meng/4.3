@@ -4,6 +4,14 @@
 ## 所有客户不收任何押金, 过审付款, 童叟无欺, 诚信做人, 骗子绕道
 
 ## wx:nba18811<br>   qq:3282751770<br>   tg:@Mengboai<br> 
+### 案例7:工具类型 7月27更新版本4.3被拒,8月3号修改后又遇到2.3.1被拒,8月7号修改后依然2.3.1和4.3被拒,8月7号-8月18期间一直都是4.3和2.3.1被拒.8月18号-8月22号期间又遇到4.2和2.3.1被拒,30号又遇到调查,31号调查结束遇到4.2和2.3.1, 9月1号又重新提交一个版本,过审
+<img width="1360" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/5c06ee89-9061-457f-8395-88b1ca7c4553">
+<img width="1344" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/538ec9b6-39bc-4f07-8eeb-dfdb581092ab">
+<img width="1364" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/6043ed9e-719a-407e-8e06-8b2ba1d0edcc">
+<img width="1337" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/f94a09c8-daa1-4acf-9706-47ab2773e3cb">
+<img width="1362" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/b3e1c474-9d51-415b-a497-f6ede7eb5a8f">
+<img width="1334" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/0172fa2b-b8e0-4ef1-b84c-a99426154136">
+<img width="1257" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/a033a9ca-5bdc-4d07-8607-9f4622317215">
 
 ### 案例6:工具类型 和案例5一样调查了
 ### 第一个版本调查了, 8月10号1.0版本审核45分钟调查了, 8月15号苹果告知调查结束但是4.3了(一般调查结束,如果账号和代码没问题,苹果都是给4.3),8月16过审
