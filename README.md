@@ -4,7 +4,7 @@
 ## 所有客户不收任何押金, 过审付款, 童叟无欺, 诚信做人, 骗子绕道
 
 ## wx:nba18811<br>   qq:3282751770<br>   tg:@Mengboai<br> 
-### 案例7:体育类型 9月27更新版本,28号上午07:54违反2.3.1被拒,此处省略1万字,28号晚上11:21过审
+### 案例8:体育类型 9月27更新版本,28号上午07:54违反2.3.1被拒,此处省略1万字,28号晚上11:21过审
 <img width="1338" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/e93d0c4e-a496-45fd-a941-aa52f8b3e2b3">
 <img width="1349" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/216faaf7-2a04-4759-ad71-b1cafb7e58b9">
 <img width="1383" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/35351e79-c36c-471a-a581-61e2243eacba">
