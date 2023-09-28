@@ -4,6 +4,13 @@
 ## 所有客户不收任何押金, 过审付款, 童叟无欺, 诚信做人, 骗子绕道
 
 ## wx:nba18811<br>   qq:3282751770<br>   tg:@Mengboai<br> 
+### 案例7:体育类型 9月27更新版本,28号上午07:54违反2.3.1被拒,此处省略1万字,28号晚上11:21过审
+<img width="1338" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/e93d0c4e-a496-45fd-a941-aa52f8b3e2b3">
+<img width="1349" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/216faaf7-2a04-4759-ad71-b1cafb7e58b9">
+<img width="1383" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/35351e79-c36c-471a-a581-61e2243eacba">
+
+
+
 ### 案例7:工具类型 7月27更新版本4.3被拒,8月3号修改后又遇到2.3.1被拒,8月7号修改后依然2.3.1和4.3被拒,8月7号-8月18期间一直都是4.3和2.3.1被拒.8月18号-8月22号期间又遇到4.2和2.3.1被拒,30号又遇到调查,31号调查结束遇到4.2和2.3.1, 9月1号又重新提交一个版本,过审
 <img width="1360" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/5c06ee89-9061-457f-8395-88b1ca7c4553">
 <img width="1344" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/538ec9b6-39bc-4f07-8eeb-dfdb581092ab">
