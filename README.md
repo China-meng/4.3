@@ -4,6 +4,14 @@
 ## 所有客户不收任何押金, 过审付款, 童叟无欺, 诚信做人, 骗子绕道
 
 ## wx:nba18811<br>   qq:3282751770<br>   tg:@Mengboai<br> 
+
+### 案例9:社交类型 9月12第一个版本4.3被拒,9月12-10月3期间,经过与苹果的不断周旋,终于10月3号过审,社交审核太严格了
+<img width="1173" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/ebb3bb3d-f1c2-4572-a701-81366b81b4f4">
+<img width="1128" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/1f4609a5-5236-440e-bc89-349b4a73934a">
+<img width="1282" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/6edceec4-9cba-4753-bf8a-8a050338c63d">
+
+
+
 ### 案例8:体育类型 9月27更新版本,28号上午07:54违反2.3.1被拒,此处省略1万字,28号晚上11:21过审
 <img width="1338" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/e93d0c4e-a496-45fd-a941-aa52f8b3e2b3">
 <img width="1349" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/216faaf7-2a04-4759-ad71-b1cafb7e58b9">
