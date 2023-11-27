@@ -5,6 +5,12 @@
 
 ## wx:nba18811<br>   qq:3282751770<br>
 
+### 案例9:游戏盒子 1.0已经过审,1.1也过审, 1.2更新图和词231被拒
+
+<img width="1248" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/6a3ed9dd-f06f-466a-8ad6-cd8dcc9e9088">
+<img width="1335" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/44ac4722-2a4b-44d5-8dff-d630c74f2684">
+
+
 ### 案例9:社交类型 9月12第一个版本4.3被拒,9月12-10月3期间,经过与苹果的不断周旋,终于10月3号过审,社交审核太严格了
 <img width="1173" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/ebb3bb3d-f1c2-4572-a701-81366b81b4f4">
 <img width="1128" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/1f4609a5-5236-440e-bc89-349b4a73934a">
