@@ -5,7 +5,7 @@
 
 ## wx:nba18811<br>   qq:3282751770<br>
 
-### 案例9:游戏盒子 1.0已经过审,1.1也过审, 1.2更新图和词231被拒
+### 案例9:游戏盒子 1.0已经过审,1.1也过审, 1.2更新图和词231被拒, 11月26重提提交过审
 
 <img width="1248" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/6a3ed9dd-f06f-466a-8ad6-cd8dcc9e9088">
 <img width="1335" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/44ac4722-2a4b-44d5-8dff-d630c74f2684">
