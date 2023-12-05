@@ -5,6 +5,11 @@
 
 ## wx:nba18811<br>   qq:3282751770<br>
 
+### 案例10:工具类 20203年12月3号1.0已经过审,1.1更新4.3被拒, 12月5号重提提交过审
+<img width="993" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/21bb0d34-5682-4613-ae15-05c9ec62f5b0">
+<img width="1148" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/9431cdbc-02d4-465d-919e-2a39c58e6bda">
+<img width="1279" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/3a11119f-c738-42ea-96e5-3f6eab39932a">
+
 ### 案例9:游戏盒子 1.0已经过审,1.1也过审, 1.2更新图和词231被拒, 11月26重提提交过审
 
 <img width="1248" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/6a3ed9dd-f06f-466a-8ad6-cd8dcc9e9088">
