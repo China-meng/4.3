@@ -4,6 +4,9 @@
 ## 所有客户不收任何押金, 过审付款, 童叟无欺, 诚信做人, 骗子绕道
 
 ## wx:nba18811<br>   qq:3282751770<br>
+### 案例10:工具类 20203年11月28号1.0已经过审,1.1更新4.3被拒, 12月6号重提提交过审
+<img width="1338" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/26562613-a4ef-4ab0-86ea-b0edbf8a4b43">
+<img width="1205" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/86584635-ae11-4b2d-ac99-3f3ee536ed53">
 
 ### 案例10:工具类 20203年12月3号1.0已经过审,1.1更新4.3被拒, 12月5号重提提交过审
 <img width="993" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/21bb0d34-5682-4613-ae15-05c9ec62f5b0">
