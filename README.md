@@ -5,6 +5,12 @@
 
 ## wx:nba18811<br>   qq:3282751770<br>
 
+### 案例16:社交类 2023年12月13号更新4.3了，12月14提交了遇到2.3.1被拒 ，12月23重提提交，24号和28遇到2.1又被拒（苹果告知无法访问全部的功能），29号做了演示视频，2024年1月2号还是2.1被拒，3号重新录了演示视频，4号过审，这个包因为客户隐私打了马赛克（appid可提供）
+![image](https://github.com/China-meng/4.3/assets/25093258/1f35f47b-61a7-45ca-84f8-be110f6ab2db)
+![image](https://github.com/China-meng/4.3/assets/25093258/f66f6ed4-cb29-4c52-a7f1-6f68b03a144b)
+![image](https://github.com/China-meng/4.3/assets/25093258/168bb3a9-379a-46b9-8e86-114a1e377535)
+![image](https://github.com/China-meng/4.3/assets/25093258/d4c3de3b-4cea-45b4-8217-844f593f0398)
+
 ### 案例15:工具类 2023年12月19号1.0已经过审,1.1更新4.3被拒, 中间提审一次又被拒了,12月21号重提提交,22号过审
 <img width="1456" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/a8835202-e403-4bc7-a777-e2072d3d1faa">
 <img width="1342" alt="image" src="https://github.com/China-meng/Trial-case/assets/25093258/0d4b1aec-56dc-4357-a629-314ca54070e4">
