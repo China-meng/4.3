@@ -5,6 +5,12 @@
 
 ## wx:nba18811<br>   qq:3282751770<br>
 
+### 案例18:二次元游戏类 2024年01月20号更新调查了,01月24号调查结束4.3,经过和审核员博弈,最终过审
+![image](https://github.com/China-meng/4.3/assets/25093258/ef1a2017-aa5b-4908-b935-a788a039ee4c)
+![image](https://github.com/China-meng/4.3/assets/25093258/5d6bb790-e7b1-4073-93f9-8d3ad8f394fd)
+![image](https://github.com/China-meng/4.3/assets/25093258/afb9f8eb-03cd-4fae-bc82-004d416ff808)
+
+
 ### 案例17:工具类 2023年12月26号更新4.3了，12月28重新提交并过审
 <img width="1315" alt="截屏2023-12-28 17 34 36" src="https://github.com/China-meng/4.3/assets/25093258/9b4c34ef-4d17-4b54-aab2-7df8bccc5d66">
 <img width="1315" alt="截屏2023-12-28 17 36 11" src="https://github.com/China-meng/4.3/assets/25093258/75ac7d23-e2c7-4c84-b012-4a1c823d6cd6">
